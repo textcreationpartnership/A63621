@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True narrative of the whole proceedings at the Sessions-House in the Old-Bayly, begun on Thursday the 12th of this instance July, 1683, against Captain Thomas Walcot, William Lord Russel, William Hone, Joyner, John Rouse, Captain William Blage, for conspiring the death of the King, &amp;c. as also, an account of the tryals of several notorious malefactors for treason, felonies, &amp;c., together with the judgment of the Court upon the same.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63621</idno>
+            <idno type="STC">Wing T2840B</idno>
+            <idno type="STC">ESTC R12722</idno>
+            <idno type="EEBO-CITATION">13801895</idno>
+            <idno type="OCLC">ocm 13801895</idno>
+            <idno type="VID">101952</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63621)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101952)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 853:58)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True narrative of the whole proceedings at the Sessions-House in the Old-Bayly, begun on Thursday the 12th of this instance July, 1683, against Captain Thomas Walcot, William Lord Russel, William Hone, Joyner, John Rouse, Captain William Blage, for conspiring the death of the King, &amp;c. as also, an account of the tryals of several notorious malefactors for treason, felonies, &amp;c., together with the judgment of the Court upon the same.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Croom ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Walcot, Thomas, d. 1683 --  Trials, litigation, etc.</term>
+               <term>Russell, William, --  Lord, 1639-1683 --  Trials, litigation, etc.</term>
+               <term>Hone, William, d. 1683 --  Trials, litigation, etc.</term>
+               <term>Rouse, John, d. 1683 --  Trials, litigation, etc.</term>
+               <term>Blague, William --  Trials, litigation, etc.</term>
+               <term>Trials (Treason) --  England --  London --  Early works to 1800.</term>
+               <term>Rye House Plot, 1683.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:101952:1" rendition="simple:additions"/>
+            <head>A TRUE NARRATIVE Of the whole PROCEEDINGS AT THE Seſſions-Houſe IN THE OLD-BAYLY, Begun on <hi>Thurſday</hi> the 12th. of this Inſtant <hi>July,</hi> 1683. againſt Captain <hi>Thomas Walcot, William</hi> Lord <hi>Ruſſel, William Hone</hi> Joyner, <hi>John Rouſe,</hi> Captain <hi>Willam Blage,</hi> for conſpiring the Death of the King, <hi>&amp;c.</hi>
+            </head>
+            <head type="sub">As alſo an Account of the Tryals of ſeveral notorious Male<g ref="char:EOLhyphen"/>factors, for Treaſon, Felonies, <hi>&amp;c.</hi> together with the Judgment of the Court upon the ſame.</head>
+            <div type="part">
+               <head>The Firſt Day.</head>
+               <p>THE firſt that came were three Perſons accuſed for <hi>Clipping,</hi> which being poſitively proved upon them, by Perſons that found them at work near <hi>Turn ſtile</hi> in <hi>Holbourne,</hi> and ſeveral pieces of <hi>Money</hi> brought into <hi>Court clipped,</hi> as alſo <hi>Crucibles, &amp;c.</hi> they were found Guilty of the <hi>Indictment.</hi>
+               </p>
+               <p>The next that came on were the two Perſons that robbed Captain <hi>Hine</hi> of a conſiderable Sum of <hi>Money</hi> near <hi>Iſlington,</hi> which being likewiſe proved they were brought in <hi>Guilty.</hi> They were alſo <hi>Indicted</hi> for, that being pur<g ref="char:EOLhyphen"/>ſued on <hi>Suſpition</hi> of the ſaid <hi>Robbery,</hi> they ſhot one man dead upon the place, and wounded ſeveral, of which they were found <hi>Guilty.</hi>
+               </p>
+               <p>The <hi>Grand Juries</hi> of <hi>London</hi> having <hi>found</hi> the <hi>Bills</hi> againſt <hi>James</hi> Duke of <hi>Monmouth, Ford,</hi> Lord <hi>Gray,</hi> Sir <hi>Thomas Armeſtrong, Robert Ferguſon, William</hi> Lord <hi>Ruſſel, William Hone</hi> Joyner, <hi>John Rowſe,</hi> Captain <hi>William Blage,</hi> Captain <hi>Thomas Walcoat, &amp;c.</hi> the five laſt were ſeverally <hi>arraigned</hi> for <hi>High-Treaſon.</hi>
+               </p>
+               <pb n="2" facs="tcp:101952:2"/>
+               <p>The firſt that came on was Captain <hi>Thomas Walcoat,</hi> whoſe <hi>Indictment</hi> ſpecified that he, the ſecond of <hi>March</hi> laſt, and at divers other times, to<g ref="char:EOLhyphen"/>gether with many other <hi>Traytors,</hi> conſpired the Death of the King, to de<g ref="char:EOLhyphen"/>poſe him from his Right and Title to the Kingdom of <hi>England,</hi> to ſubvert the <hi>Government,</hi> raiſe <hi>Rebellions, &amp;c.</hi>
+               </p>
+               <p>Upon this Mr. <hi>North,</hi> Mr. <hi>Attorney General,</hi> and Sir <hi>George Gefferies,</hi> gave the Particulars of the Evidence that was to be produced, inſiſting much on the Hainouſneſs of the Fact, and diſplaying it in its proper Colours; and added, that if the ſeveral <hi>Particulars</hi> ſpecified in the <hi>Indictment,</hi> were proved upon the <hi>Priſoner,</hi> they would ſhew themſelves True <hi>Engliſh</hi> men, and <hi>Chriſtians</hi> to find it.</p>
+               <p>The firſt Witneſs was Collonel <hi>Rumſey,</hi> who depoſed that there had been ſeveral <hi>Trayterous Conſpiracies</hi> and <hi>Conſults</hi> to take away the <hi>Life</hi> of the <hi>King,</hi> and that Captain <hi>Walcoat</hi> was preſent at the ſaid <hi>Conſults,</hi> and con<g ref="char:EOLhyphen"/>ſented to the <hi>Models</hi> laid, and <hi>Propoſitions</hi> made to effect that <hi>Horrid Trea<g ref="char:EOLhyphen"/>ſon.</hi> Nay, that they were ſo Cock-ſure of their Succeſs, that they had already framed a <hi>Model</hi> of <hi>Government</hi> that was to enſue. That an <hi>Am<g ref="char:EOLhyphen"/>buſcade</hi> being to be placed at <hi>Rumbold</hi>'s Houſe the <hi>Maltſter</hi> near <hi>Hogsden,</hi> the ſaid Captain <hi>Walcoat</hi> went to the Houſe to ſee if it was convenient.</p>
+               <p>Mr. <hi>Keeling, Boarn,</hi> and <hi>Weſt,</hi> depoſed much to the ſame effect, and further, that their <hi>New-market</hi> Project not being compaſſed, they were to attempt it at his going to <hi>Windſor,</hi> at the <hi>Play-houſe, Bull-Feaſt, &amp;c.</hi> all which was allowed of, and encouraged by the <hi>Priſoner.</hi>
+               </p>
+               <p>Then two Letters were produced under his own hand, the one to Sir <hi>Lionel Jenkins,</hi> to implore the <hi>Pardon</hi> of His Majeſty, and he would diſ<g ref="char:EOLhyphen"/>cover the whole <hi>Intreague;</hi> the other ſeized by Captain <hi>Richardſon,</hi> di<g ref="char:EOLhyphen"/>rected to a Friend, to perſwade Collonel <hi>Rumſey, &amp;c.</hi> to be favourable in their Evidence.</p>
+               <p>His Anſwers were very inſignificant, he alledging that he was Lame, but yet could go to ſee <hi>Rumbald</hi>'s Houſe, and that though he had often aſſo<g ref="char:EOLhyphen"/>ciated with the Conſpirators, yet he hoped it could amount to no more than Miſpriſion of <hi>Treaſon;</hi> but the <hi>Jury,</hi> after ſome conſideration, brought him in Guilty of the <hi>Indictment.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The Second Day.</head>
+               <p>The firſt that came on this Morning, was <hi>William Hone,</hi> who deſired that the Plea he made yeſterday might be allowed, which was, that he was Guilty of a Conſpiracy, but not of providing Arms to raiſe a Rebellion, which was not, allowed and therefore pleaded not Guilty to the whole. This Indictment imported, that as a Falſe Traytor he had Conſpired to depoſe the King of his Crown and Dignity, and that particularly at a Con<g ref="char:EOLhyphen"/>ſult, the ſecond of <hi>March,</hi> 25. <hi>Car. Secundi,</hi> in the Pariſh of St. <hi>Michael Biſhaw,</hi> where were preſent <hi>Rumbold, Ferguſon, Holliway, Roe, Francis,</hi> and <hi>Richard Goodenough,</hi> and many other of the Trayterous Conſpirators, and that when they ſpoke of killing the King and Duke, they called the former <hi>Black-bird,</hi> and the latter <hi>Gold-finch;</hi> the Priſoner Confeſſing he did conſpire the Death of the <hi>Black-bird,</hi> but not the <hi>Gold-finch.</hi>
+               </p>
+               <p>Mr. <hi>Keeling</hi> being ſworn, ſaid that the Priſoner came acquainted with him by <hi>Goodenough,</hi> and that he was one in the intended Aſſaſſination of His Majeſty and Duke of <hi>York:</hi> Mr. <hi>Weſt</hi> inſiſted much to the ſame effect; and Sir <hi>Nicholas Butler</hi> depoſed that he confeſſed Matter in relation to the
+<pb n="3" facs="tcp:101952:2"/>ſaid <hi>Horrid Conſpiracy,</hi> which being plain proof to the <hi>Jury,</hi> they brought him in Guilty of the <hi>Indictment,</hi> without going from the <hi>Bar.</hi>
+               </p>
+               <p>The <hi>Lieutenant</hi> of the <hi>Tower</hi> having with great <hi>Guards</hi> brought the Lord <hi>Ruſſel</hi> from the <hi>Tower,</hi> ſurrendered him up the Sheriff <hi>North,</hi> who immedi<g ref="char:EOLhyphen"/>ately brought him up to the <hi>Court,</hi> where his <hi>Indictment</hi> was read, (<hi>viz.</hi> for Conſpiring the death of the King, <hi>&amp;c.</hi> with <hi>James</hi> Duke of <hi>Monmouth, Ford</hi> Lord <hi>Gray,</hi> Sir <hi>Thomas Armeſtrong,</hi> and <hi>Robert Ferguſon</hi>) to which having pleaded not Guilty, and deſired longer time, (which the Kings Councel oppoſed) he excepted againſt the <hi>Jury,</hi> as not being Free-holders, which being a matter of Law, the Court appointed Mr. <hi>Pollexfen,</hi> Mr. <hi>Holt,</hi> and Mr. <hi>Ward</hi> to argue it for his Lordſhip, which being done, the Court over-ruled it, whereupon the <hi>Jury</hi> was called, two and thirty of which his Lordſhip peremptorily challenged.</p>
+               <p>The Jury being Sworn, and the <hi>Indictment</hi> read, the Kings Council learnedly opened it, and dilated much on the Hainouſneſs of the Crimes al<g ref="char:EOLhyphen"/>ledged againſt him.</p>
+               <p>Collonel <hi>Rumſey</hi> being the firſt Witneſs, depoſed that the Priſoner, to<g ref="char:EOLhyphen"/>gether with the Perſons aforeſaid, being at Mr. <hi>Shepherds</hi> a <hi>Vintner</hi> in the Pariſh of St. <hi>Nicholas Baſhaw,</hi> he was ſent to them by the Earl of <hi>Shafts<g ref="char:EOLhyphen"/>bury,</hi> to know what forwardneſs they were in, as to an Inſurrection, and that they received anſwer, that Mr. <hi>Trenchard,</hi> who had promiſed to raiſe 1000 Foot and 4000 Horſe, to be aiding in the Deſign, had certified them by a Letter, that it could not as yet be effected, becauſe ſome would not ruſh on ſuch a great Concern, without deliberation correſpondent to it.</p>
+               <p>Mr. <hi>Shepherd,</hi> then depoſed, that being a <hi>Vintner,</hi> the perſons before menti<g ref="char:EOLhyphen"/>oned being come to his houſe, they deſired a private room, where he heard the conſulting about an Inſurrection, and to his beſt remembrance, there was a diſcourſe of ſeizing the Guards.</p>
+               <p>The laſt was the Lord <hi>Howard</hi> of <hi>Eſcreek,</hi> who upon Oath declared the Conſpiracy at large, wherein he ſaid the Earl of <hi>Shaftsbury</hi> was the Con<g ref="char:EOLhyphen"/>triver of it, that he was diſſatisfied in the coldneſs of the Lords in it, that he had 10000 men in the City at his beck, that divers Meſſages paſſed be<g ref="char:EOLhyphen"/>twixt them, but it being put off from time to time, the Earl at laſt went for <hi>Holland</hi> to ſecure himſelf, where he died; that <hi>Aaron Smith</hi> was diſpatched to <hi>Scotland,</hi> to perſwade the <hi>Gentry</hi> to riſe; that they had conſtituted a Committee of ſix, which conſiſted of the Lord <hi>Ruſſel,</hi> Lord <hi>Howard,</hi> Duke of <hi>Monmouth,</hi> Earl of <hi>Eſſex,</hi> Mr. <hi>Sidney,</hi> and Mr. <hi>Hambden</hi> the younger.</p>
+               <p>
+                  <hi>Sidney</hi> was ſent by them to ſee what poſture the Guards were in; that they had Money ready to carry on the Deſign, but expected more from <hi>Holland.</hi>
+               </p>
+               <p>The <hi>Lord Ruſſel</hi> confeſſed he was at the Conſult, but came late, that he went to <hi>Shepherds</hi> only to taſt <hi>Wines;</hi> he then produced ſeveral Perſons of Quality in his behalf, touching his Reputation, but the <hi>Jury,</hi> after ſome conſideration, brought him in <hi>Guilty.</hi>
+               </p>
+               <p>Then <hi>Rouſe</hi> came on, againſt whom it was ſworn much to the ſame effect, who was alſo brought in Guilty of the <hi>Indictment</hi> for endeavouring to kill the King, <hi>&amp;c.</hi>
+               </p>
+               <p>Captain <hi>Blage</hi> was arraigned, for that his part was to ſeize the <hi>Tower,</hi> but ſeveral Circumſtances appearing to the <hi>Jury</hi> of his Innocence, they brought him in not Guilty.</p>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:101952:3" rendition="simple:additions"/>
+               <head>The Third Day.</head>
+               <p>This Morning the Lord <hi>Ruſſel</hi> was brought up to receive Judgment, and being asked what he had to ſay, why it ſhould not be given, he deſired his <hi>Indictment</hi> might be read to him again, which was accordingly done, and therein he made an Exception, but it being frivolous in the Opinion of the Court, Mr. <hi>Attorney</hi> demanded <hi>Judgment</hi> in the King's Name, which was accordingly done, as the Law in ſuch caſes has preſcribed, the Recorder making a ſhort but pathetical <hi>Speech.</hi>
+               </p>
+               <p>Then <hi>Captain Walcoat, William Hone,</hi> and <hi>John Rouſe</hi> were brought to the Bar, the two firſt deſiring only the liberty of their Friend to viſit them, which was granted, and the laſt run on in a ſtrange harangue of his <hi>Innocence,</hi> and thereupon they immediately received the ſame <hi>Judgment.</hi>
+               </p>
+               <p>Capt. <hi>Blage</hi> being brought in not Guilty by the <hi>Jury,</hi> he was then diſcharged.</p>
+               <p>Then the <hi>Grand Jury</hi> for <hi>London</hi> preſented an <hi>Addreſs</hi> of Thanks to the <hi>Lord-Mayor,</hi> for His Majeſties deliverance from the <hi>Helliſh Plot,</hi> and humbly deſired his Lordſhip to preſent it in their Names, which his Lordſhip accor<g ref="char:EOLhyphen"/>dingly promiſed.</p>
+               <p>Then <hi>Thomas <g ref="char:V">Ʋ</g>dal a Weaver</hi> in <hi>Spittle fields</hi> made his appearance, who was bound over for making ſeveral Pieces of ſeveral ſorts of Ribbon, wherein was the Motto, <hi>No Slavery, no Popery,</hi> and being asked by whoſe order he made them, replyed, by order of one <hi>Harrington,</hi> who never call<g ref="char:EOLhyphen"/>ed for them, and is not to be found; and proving himſelf a Loyal Church<g ref="char:EOLhyphen"/>man was diſcharged.</p>
+               <p>The firſt that was called among the reſt of the <hi>Malefactors,</hi> was <hi>Jonathan Ball</hi> for ſtealing Goods to the value of 5 <abbr>
+                     <hi>l.</hi>
+                  </abbr> of which he was found Guilty.</p>
+               <p>
+                  <hi>Elizabeth Maſon</hi> and <hi>Margaret Nicolſon</hi> were Indicted for <hi>Clippers,</hi> but there being no poſitive Proof, the <hi>Jury</hi> acquited them.</p>
+               <p>
+                  <hi>Francis Engliſh</hi> an Inn-keeper, Indicted for ſtealing a Horſe, was cleared.</p>
+               <p>One <hi>P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>unton</hi> an <hi>Apprentice</hi> was Indicted for ſtealing Silver Salts, Spoons, and Forks from his Maſter, but the <hi>Jury</hi> acquitted him.</p>
+               <p>
+                  <hi>Rachel Baſh</hi> and <hi>Sarah Day</hi> were Indicted for ſtealing a Yard of Bone-lace, to the value of 1 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 6 <abbr>
+                     <hi>d.</hi>
+                  </abbr> but were cleared.</p>
+               <p>
+                  <hi>Jane Dulton</hi> of <hi>Sunbury</hi> in <hi>Middleſex,</hi> was Indicted for a <hi>Witch,</hi> and ſe<g ref="char:EOLhyphen"/>veral ſtrange things were alledged againſt her by a great number of Wit<g ref="char:EOLhyphen"/>neſſes, and particularly her bewitching <hi>Ann Collins</hi> to death; but the Miniſter of the Town giving a ſatisfactory account to the Court of her Faith confeſſed to him, and often Prayer with him, ſhe was acquitted.</p>
+               <p>One <hi>Gratrix</hi> and <hi>Spittle</hi> were Indicted for robbing one Mr. <hi>Pits</hi> an Officer of the Court of about 9 <abbr>
+                     <hi>l.</hi>
+                  </abbr> and they being known old Offenders, they were found Guilty.</p>
+               <p>
+                  <hi>Richard Fennel</hi> and <hi>George James</hi> confeſſed their Felonies and Robberies.</p>
+               <p>
+                  <hi>Anthony Simſon</hi> a Cripple of the Hoſpital, was Indicted for killing a Fel<g ref="char:EOLhyphen"/>low-Cripple by throwing a Bed-ſtaff, but was cleared.</p>
+               <p>
+                  <hi>John Scot</hi> a Carman, and <hi>Samuel Coldicol</hi> were Indicted for killing <hi>Mary Edwards</hi> in St. <hi>Pauls</hi> Church-yard, by the fall of a Bale of Paper, but the Jury acquitted them.</p>
+               <p>Laſtly <hi>Elizabeth Hall</hi> was Indicted for ſtealing Goods to the value of 5 <abbr>
+                     <hi>l.</hi>
+                  </abbr> from <hi>Henry-Tayler,</hi> of which ſhe was cleared.</p>
+               <p>And there being much buſineſs remaining ſtill on <hi>Middleſex,</hi> ſide, the Court thought fit to adjourn till Munday.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed by</hi> George Croom <hi>in</hi> Thames-ſtreet <hi>over againſt</hi> Baynards-Caſtle, <hi>1683.</hi>
+            </p>
+            <pb facs="tcp:101952:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
